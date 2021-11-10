@@ -1,0 +1,6 @@
+[submodule "muhleBack"]
+	path = muhleBack
+	url = git@github.com:Kesefon/muhleBack.git
+[submodule "muhleFront"]
+	path = muhleFront
+	url = git@github.com:Kesefon/muhleFront.git
